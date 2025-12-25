@@ -105,7 +105,7 @@ Il bilanciamento ha migliorato significativamente le prestazioni, in particolare
 ## 👤 Autore
 **Diego Scirocco**  
 Laureando in Ingegneria Informatica  
-Università degli Studi di Roma "Tor Vergata"  
+Università degli Studi di Roma Tre  
 A.A. 2023–2024  
 
 Relatore: **Prof. Giuseppe Sansonetti**
